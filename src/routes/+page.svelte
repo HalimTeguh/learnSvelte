@@ -1,6 +1,8 @@
 <script>
+
   let imgURL =
     "https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/avataaars.svg";
+
 </script>
 
 <div class="container">
@@ -23,22 +25,22 @@
     </svg>
     <hr />
   </div>
-  <br>
+  <br />
   <h3>Web Developer - Mobile Developer</h3>
 </div>
 
 <style>
   .container {
-    top: 30px;
     text-align: center;
     background-color: #1abc9c;
-    padding: 14.25em;
+    padding: 14.25em 0;
+    width: 100%;
     color: white;
   }
 
   .divider {
     display: flex;
-    margin: auto 10em;
+    margin: auto;
   }
 
   hr {
@@ -50,7 +52,7 @@
     padding: 0;
   }
 
-  h3{
+  h3 {
     margin: 0;
   }
 
