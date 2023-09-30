@@ -8,6 +8,14 @@ Selamat Datang di Repo Learn Svelte, ini adalah tempat saya belajar sekaligus ex
 Berikut adalah tampilan awal:
 ![image](/static/image/sc.png)
 
+### Add Todo Page
+Memperbaiki layout di awal dan menambahkan halaman contact dan about.
+kemudian membuat halaman todo dengan menggunakan free template boostrap (NiceAdmin)
+Berikut adalah tampilan dari Todo Page:
+![image](/static/image/sc2.png)
+
+
+
 ## Preview  by yourself
 
 Actually, idk how to make this project can run in your device. but i think this gonna work:
